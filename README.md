@@ -1,5 +1,7 @@
 # Читальня «Містка»
 
+[English](#in-english)
+
 ![Читальня «Містка»](.github/media/hero.jpg)
 
 Як шукати, перевіряти й читати архівні джерела разом із мовною моделлю. Скіли для Claude Code, методики й матеріали, напрацьовані в роботі над сайтом [«Місток»](https://mistok.wiki).
@@ -41,6 +43,20 @@ ln -s "$PWD/mistok-chytalnia/skills/metryky" ~/.claude/skills/metryky
 
 ## Ліцензія
 
-Вільна. Беріть, копіюйте, переробляйте під себе, вставляйте у свої скіли й проєкти, робіть що завгодно - питати дозволу не треба.
+[MIT](LICENSE). Беріть, копіюйте, переробляйте під себе, вставляйте у свої скіли й проєкти, робіть що завгодно - питати дозволу не треба. Єдина умова MIT - зберігати текст ліцензії в копіях.
 
 Єдине прохання, і воно не юридичне: згадуйте час від часу [«Місток»](https://mistok.wiki) :)
+
+## In English
+
+Methods for finding, reading and fact-checking archival sources together with a language model: Claude Code skills and reference material built while researching [Mistok](https://mistok.wiki), a Ukrainian local-history site.
+
+There is no generic advice here. Every rule either cost a broken run or was measured, and the number sits next to the rule. For example, one agent that read thirteen register pages in a row burned 251k tokens while three neighbouring agents hit the limit without writing anything, hence the rule "one page, one agent".
+
+- **metryky** - reading parish registers and civil registry acts from scans: where to find the file, how to read a page, how to record what was read.
+- **zvirka** - checking a finished text against its sources: does the source say exactly this, and is the footnote on the right sentence.
+- **presa** - searching digitized old newspapers: search keys across word forms and pre-reform spelling, clippings instead of full pages, silent OCR failures.
+- **rozvidka** - splitting research across parallel agents: exclusive source zones, call ceilings, where the budget actually goes.
+- **[pastky.md](materials/pastky.md)** - twenty-three pitfalls of archival search.
+
+The skills are plain Markdown written in Ukrainian, so they work with any tool, not only Claude Code. Licensed under [MIT](LICENSE).
