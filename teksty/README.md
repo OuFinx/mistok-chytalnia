@@ -15,14 +15,14 @@
 | `aiuzr-3-3-1876.txt` | Архив Юго-Западной России. Ч. 3, т. 3: Акты о гайдамаках (1700-1768). Київ, 1876 | [archive.org](https://archive.org/details/aruzr3-3) |
 | `antonovych-1895.txt` | Антонович В. Б. Археологическая карта Киевской губернии. Москва, 1895 | [archive.org](https://archive.org/details/libgen_00326220) |
 | `azr-1-1846.txt` | Акты, относящиеся к истории Западной России. Т. 1: 1340-1506. СПб., 1846 | [archive.org](https://archive.org/details/azr_1) |
-| `spisok-kiev-1900-ch1.txt`, `-ch2.txt` | Список населенных мест Киевской губернии. Київ, 1900. Дві частини | |
+| `spisok-kiev-1900-ch1.txt`, `spisok-kiev-1900-ch2.txt` | Список населенных мест Киевской губернии. Київ, 1900. Дві частини | |
 | `spysok-dvorian-1906.txt` | Список дворян Киевской губернии. Київ, 1906. Поіменний перелік родів із синами й дочками | [archive.org](https://archive.org/details/spisok-dvoryan-kiyevskoy-gubernii-1906-g.) |
 | `spysok-poselen-1924.txt` | Список поселень Київщини. Київ, 1924. Усі поселення губернії з людністю й адресою за новим і старим поділом | [archive.org](https://archive.org/details/spysok_poselen_kyivschyny_1924) |
 | `spysok-poselen-kyivska-okruha-1926.txt` | Список поселень Київської округи. Київ, 1926. По кожній сільраді число господарств і населення | [history.org.ua](https://history.org.ua/LiberUA/SpPosKO_1926/SpPosKO_1926.pdf) |
-| `kev-1873-12-otd1.txt`, `-otd2.txt` | Киевские епархиальные ведомости, 1873, № 12, відділи 1 і 2 | |
+| `kev-1873-12-otd1.txt`, `kev-1873-12-otd2.txt` | Киевские епархиальные ведомости, 1873, № 12, відділи 1 і 2 | |
 | `starozytna-polska-2-1885.txt` | Baliński M., Lipiński T. Starożytna Polska. T. 2. Warszawa, 1885 | [wbc.poznan.pl](https://www.wbc.poznan.pl/dlibra/publication/11126/edition/18060) |
 | `summaryusz-1770.txt` | Summarjusz królewszczyzn w całej Koronie Polskiej. Реєстр королівщин 1770 року, видання 1861 | [bc.wbp.lublin.pl](https://bc.wbp.lublin.pl/dlibra/publication/4587) |
-| `zrodla-dziejowe-20-1894.txt`, `-21-1894.txt` | Źródła dziejowe. T. XX-XXI: Polska XVI wieku, Ziemie ruskie, Ukraina (Kijów, Bracław). Warszawa, 1894 | [Commons](https://commons.wikimedia.org/wiki/Category:%C5%B9r%C3%B3d%C5%82a_dziejowe) |
+| `zrodla-dziejowe-20-1894.txt`, `zrodla-dziejowe-21-1894.txt` | Źródła dziejowe. T. XX-XXI: Polska XVI wieku, Ziemie ruskie, Ukraina (Kijów, Bracław). Warszawa, 1894 | [Commons](https://commons.wikimedia.org/wiki/Category:%C5%B9r%C3%B3d%C5%82a_dziejowe) |
 | `rulikowski-1913.txt` | Rulikowski E. Opis powiatu kijowskiego. Kijów; Warszawa, 1913 | [sbc.org.pl](https://sbc.org.pl/Content/18090/PDF/18090.pdf) |
 | `atp-ursr-1947.txt` | Українська РСР. Адміністративно-територіальний поділ. Київ, 1947. Дані на 1 вересня 1946 року | [archive.org](https://archive.org/details/ukrajinska-rsr-administraryvno--terytorialnyj-podil_) |
 
