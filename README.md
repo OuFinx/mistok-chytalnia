@@ -43,6 +43,8 @@ ln -s "$PWD/mistok-chytalnia/skills/metryky" ~/.claude/skills/metryky
 
 Це росте з кожним селом: що і коли додалося, записано в [`ZMINY.md`](ZMINY.md).
 
+**Хто це збирає.** Насамперед штучний інтелект, Claude, у процесі роботи над «Містком»: він читає скани, виписує покажчики й звіряє написане з джерелами, а я перечитую й правлю за ним те, до чого дістаю. Обсяги такі, що помилка могла пройти повз мене: переплутана цифра сторінки, не та літера в назві села, зайвий рядок. Якщо ви таке помітили, відкрийте pull request або issue, я подивлюся. Найкорисніша правка та, де сказано, звідки ви знаєте: номер справи, сторінка скану, посилання.
+
 ## Приклад
 
 [Один аркуш, прочитаний за цим скілом](examples/posimeinyi-spysok/): ось [фото](examples/posimeinyi-spysok/skan.jpeg), ось [що вийшло](examples/posimeinyi-spysok/prochytannia.md). Замовлення було «прочитай метрику», а перше, що дав прохід, - це не метрична книга, а посімейний список ревізького типу.
@@ -71,5 +73,7 @@ There is no generic advice here. Every rule either cost a broken run or was meas
 - **rozvidka** - splitting research across parallel agents: exclusive source zones, call ceilings, where the budget actually goes.
 - **[pastky.md](materials/pastky.md)** - twenty-three pitfalls of archival search.
 - **[pokazhchyky/](pokazhchyky/)**, **[dzherela/](dzherela/)**, **[teksty/](teksty/)** - finding aids (which file and page holds which village in the 1795-1834 revision lists and in the 1971 regional history volume), the full bibliography behind the site, and OCR text of pre-1917 books to search by surname or village. Grows with every village, see [ZMINY.md](ZMINY.md).
+
+Most of this material is gathered by Claude in the course of the work: it reads the scans, transcribes the finding aids and checks the text against its sources, and I review and correct what I can reach. At this volume a mistake can slip past me: a wrong page number, a wrong letter in a village name, a stray row. If you spot one, open a pull request or an issue and I will look at it; the most useful correction says where you know it from.
 
 The skills are plain Markdown written in Ukrainian, so they work with any tool, not only Claude Code. Licensed under [MIT](LICENSE).
