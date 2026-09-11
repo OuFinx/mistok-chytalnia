@@ -51,6 +51,8 @@ ln -s "$PWD/mistok-chytalnia/skills/metryky" ~/.claude/skills/metryky
 
 Methods for finding, reading and fact-checking archival sources together with a language model: Claude Code skills and reference material built while researching [Mistok](https://mistok.wiki), a Ukrainian local-history site.
 
+Mistok currently covers 42 villages of the Makariv district (Kyiv oblast): 8,876 parish-register records, 116 biographies and 550 cited sources, with a footnote on every sentence. To see what a skill actually produces, here is [one page read with metryky](examples/posimeinyi-spysok): the [scan](examples/posimeinyi-spysok/skan.jpeg) and [the result](examples/posimeinyi-spysok/prochytannia.md).
+
 There is no generic advice here. Every rule either cost a broken run or was measured, and the number sits next to the rule. For example, one agent that read thirteen register pages in a row burned 251k tokens while three neighbouring agents hit the limit without writing anything, hence the rule "one page, one agent".
 
 - **metryky** - reading parish registers and civil registry acts from scans: where to find the file, how to read a page, how to record what was read.
