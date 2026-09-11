@@ -33,6 +33,16 @@ ln -s "$PWD/mistok-chytalnia/skills/metryky" ~/.claude/skills/metryky
 | [**pastky.md**](materials/pastky.md) | Двадцять три пастки архівного пошуку. Джерело, яке бреше про себе; пошук, який мовчить замість заперечувати; скан, на якому око бачить іншу неправду; перевірка, яка все пропустила |
 | [**htr.md**](skills/metryky/references/htr.md) | Чому автоматичне читання рукопису поки що не працює, з арифметикою порогу. Варте читання, навіть якщо метрики вам байдужі |
 
+## Матеріали до пошуку
+
+| | Що всередині |
+|---|---|
+| [**pokazhchyky/**](pokazhchyky/) | Де в справі чи томі лежить ваше село: ревізькі казки Київського повіту 1795-1834 років по пʼятьох справах ДАКО, зміст і покажчик «Історії міст і сіл» 1971 року по всій Київщині, люди макарівського розділу поіменно. У `tsv`, відкривається таблицею |
+| [**dzherela/**](dzherela/) | Бібліографія «Містка»: 564 джерела з архівними адресами й посиланнями, одним файлом |
+| [**teksty/**](teksty/) | Розпізнаний текст двадцяти видань до 1917 року й довідника 1947 року, щоб шукати прізвище чи село, а не гортати скан |
+
+Це росте з кожним селом: що і коли додалося, записано в [`ZMINY.md`](ZMINY.md).
+
 ## Приклад
 
 [Один аркуш, прочитаний за цим скілом](examples/posimeinyi-spysok/): ось [фото](examples/posimeinyi-spysok/skan.jpeg), ось [що вийшло](examples/posimeinyi-spysok/prochytannia.md). Замовлення було «прочитай метрику», а перше, що дав прохід, - це не метрична книга, а посімейний список ревізького типу.
@@ -60,5 +70,6 @@ There is no generic advice here. Every rule either cost a broken run or was meas
 - **presa** - searching digitized old newspapers: search keys across word forms and pre-reform spelling, clippings instead of full pages, silent OCR failures.
 - **rozvidka** - splitting research across parallel agents: exclusive source zones, call ceilings, where the budget actually goes.
 - **[pastky.md](materials/pastky.md)** - twenty-three pitfalls of archival search.
+- **[pokazhchyky/](pokazhchyky/)**, **[dzherela/](dzherela/)**, **[teksty/](teksty/)** - finding aids (which file and page holds which village in the 1795-1834 revision lists and in the 1971 regional history volume), the full bibliography behind the site, and OCR text of pre-1917 books to search by surname or village. Grows with every village, see [ZMINY.md](ZMINY.md).
 
 The skills are plain Markdown written in Ukrainian, so they work with any tool, not only Claude Code. Licensed under [MIT](LICENSE).
