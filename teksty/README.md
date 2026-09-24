@@ -25,5 +25,9 @@
 | `zrodla-dziejowe-20-1894.txt`, `zrodla-dziejowe-21-1894.txt` | Źródła dziejowe. T. XX-XXI: Polska XVI wieku, Ziemie ruskie, Ukraina (Kijów, Bracław). Warszawa, 1894 | [Commons](https://commons.wikimedia.org/wiki/Category:%C5%B9r%C3%B3d%C5%82a_dziejowe) |
 | `rulikowski-1913.txt` | Rulikowski E. Opis powiatu kijowskiego. Kijów; Warszawa, 1913 | [sbc.org.pl](https://sbc.org.pl/Content/18090/PDF/18090.pdf) |
 | `atp-ursr-1947.txt` | Українська РСР. Адміністративно-територіальний поділ. Київ, 1947. Дані на 1 вересня 1946 року | [archive.org](https://archive.org/details/ukrajinska-rsr-administraryvno--terytorialnyj-podil_) |
+| `fundukley-1852.txt` | Фундуклей И. Статистическое описание Киевской губернии. Київ, 1852. Три частини: природа й річки, населення, господарство по повітах | [archive.org](https://archive.org/details/statict1852) |
+| `osnova-1862-2.txt` | «Основа», Санкт-Петербург, 1862, книжка 2 (лютий). Серед іншого, дописи з сіл про перший рік після скасування кріпацтва | [archive.org](https://archive.org/details/osnova_1862_2) |
+| `psrl-2-ipat-1908.txt` | Полное собрание русских летописей. Т. 2: Ипатьевская летопись. СПб., 1908. Друге академічне видання, з різночитаннями списків під текстом | [litopys.org.ua](http://litopys.org.ua/ipatlet/ipat22.htm) |
+| `pk-kiev-gub-1914.txt` | Памятная книжка Киевской губернии на 1914 год. Адрес-календар губернії: установи, посадовці, парафії, великі землевласники по повітах | [archive.org](https://archive.org/details/PKKievGub1914) |
 
 Немає тут «Słownika geograficznego»: його п’ятнадцять томів важать 80 МБ, і повний текст уже лежить на [dir.icm.edu.pl](http://dir.icm.edu.pl/Slownik_geograficzny/) з пошуком. Немає й «Історії міст і сіл» 1971 року, тільки [покажчик до неї](../pokazhchyky/imis-1971-kyivska.md).
